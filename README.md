@@ -1,4 +1,5 @@
 LAP 4 Code Challenge
+
 URL Shortener 
 
 Installation & Usage 
@@ -31,15 +32,16 @@ Configuration
 6. Imported SQLAlchemy and created a db instance 
 
 App:
-4. Created models.py
-7. In models.py created class Link. Link includes id, original url, short url, number of visit to the link, date of link creation.
 
-8. In models.py added a function to generate a random path for short_link
-9. In routes.py added routes for the homepage, creating short link, results page, stats page and 404 page 
+7. Created models.py
+8. In models.py created class Link. Link includes id, original url, short url, number of visit to the link, date of link creation.
 
-10. Created templates directory
-11. Added a form in index.html for the homepage, results page, stats page and 404 page 
-12. Used bulma to add styling 
+9. In models.py added a function to generate a random path for short_link
+10. In routes.py added routes for the homepage, creating short link, results page, stats page and 404 page 
+
+11. Created templates directory
+12. Added a form in index.html for the homepage, results page, stats page and 404 page 
+13. Used bulma to add styling 
 
 
 
