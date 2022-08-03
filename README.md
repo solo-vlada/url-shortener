@@ -22,6 +22,7 @@ Database access
 3. .exit
 
 CHANGELOG
+
 Configuration
 1. Added .env and .flaskenv files with configurations
 2. Created url_shortener folder and added settins.py
